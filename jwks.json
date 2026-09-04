@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "exploit-key-1",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "tJr5-bBAHLNzYsrVI6xGxI02Z4vysQ2Ojasr09KmxvSN9DssT6t0jPLZuQ8QOtpOctfGNZ2qCvk_2-F7Icf3Fm7hGl3Bbo2F33vZ8JTKcf_SFX-7iX3Euwclc1IjyWQlBcx9i1yHD8j3Y-f4cyE47G1UfnEjLrxy1h3eLys9O8ahkLYvXVr9U6ca0M3yqB7mkYIT7WqUnL4ilmnxhGwG_nZ2RvToSjhw07VsOQWFoUp-AYvqQmWT7ncsDn8ozKYBD22GfJQi08dGDP6uewUGE2ibCptzP7SR8A2u24xbj-dk4vGkMh3uB883E9lIyVMLqZUWbWaIa3GwnHgaUhw1HQ",
+      "e": "AQAB"
+    }
+  ]
+}
